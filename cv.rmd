@@ -76,7 +76,7 @@ Disclaimer {#disclaimer}
 
 This resume was made with R using the [**{pagedown}**](https://github.com/rstudio/pagedown) and [**{datadrivencv}**](https://github.com/nstrayer/datadrivencv) packages. 
 
-Source code is available at [github.com/lopierra/resume](github.com/lopierra/resume).
+Source code is available at [github.com/lopierra/resume](https://github.com/lopierra/resume).
 
 Last updated on `r Sys.Date()`.
 
