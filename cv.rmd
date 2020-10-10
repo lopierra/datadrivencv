@@ -63,14 +63,13 @@ CV %>% print_skills()
 
 <br>
 
-```{r}
-if(params$pdf_mode){
-  cat("View this resume online with links at __")
-} else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this resume](https://github.com/lopierra/resume/raw/master/lo_resume.pdf)")
-}
+```{r, include=FALSE}
+# if(params$pdf_mode){
+#   cat("View this resume online with links at __")
+# } else {
+#   cat("[<i class='fas fa-download'></i> Download a PDF of this resume](https://github.com/lopierra/resume/raw/master/lo_resume.pdf)")
+# }
 ```
-
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
